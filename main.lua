@@ -19,3 +19,5 @@ local msgText = display.newText( "Hello, world2", world.x, world.y-100, native.s
 msgText:setFillColor( 0.0, 1.6, 0.0 )
 local msgText = display.newText( "Hello, world!", world.x, world.y-300, native.systemFont, 32 )
 msgText:setFillColor( 1.2, 0.0, 0.0 )
+local msgText = display.newText( "Hello, world!", world.x, world.y-300, native.systemFont, 32 )
+msgText:setFillColor( 1.2, 0.0, 0.0 )
